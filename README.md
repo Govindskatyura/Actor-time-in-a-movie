@@ -24,3 +24,4 @@ to train a new model you have to create a folder with name of person and inside 
  and your model will saved in trainingdata.yml file
  then run live.py for test.
  
+![Test Image 1](Figure_1.png)
