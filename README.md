@@ -1,9 +1,9 @@
 # Actor-time-in-a-movie
  facial recognition tool of each and every character of the movie and calculate the total screen time of the characters.
+![Image description](Video.png)
 ##
 # Installation 
 !pip install -r requirements.txt
-
 ##
 in this project i used OpenCv for vision and Matplotlib for ploting
 model trained with images and labeled with the folder name.
